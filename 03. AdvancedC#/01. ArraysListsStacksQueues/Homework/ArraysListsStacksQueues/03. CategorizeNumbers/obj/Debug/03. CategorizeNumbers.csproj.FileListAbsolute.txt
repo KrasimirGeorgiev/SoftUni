@@ -1,0 +1,6 @@
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\03. CategorizeNumbers\bin\Debug\_03.CategorizeNumbers.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\03. CategorizeNumbers\bin\Debug\_03.CategorizeNumbers.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\03. CategorizeNumbers\bin\Debug\_03.CategorizeNumbers.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\03. CategorizeNumbers\obj\Debug\03. CategorizeNumbers.csprojResolveAssemblyReference.cache
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\03. CategorizeNumbers\obj\Debug\_03.CategorizeNumbers.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\03. CategorizeNumbers\obj\Debug\_03.CategorizeNumbers.pdb

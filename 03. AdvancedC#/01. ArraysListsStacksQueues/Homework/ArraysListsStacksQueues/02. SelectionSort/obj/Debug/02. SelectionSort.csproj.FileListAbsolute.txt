@@ -1,0 +1,6 @@
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\02. SelectionSort\bin\Debug\_02.SelectionSort.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\02. SelectionSort\obj\Debug\02. SelectionSort.csprojResolveAssemblyReference.cache
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\02. SelectionSort\bin\Debug\_02.SelectionSort.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\02. SelectionSort\bin\Debug\_02.SelectionSort.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\02. SelectionSort\obj\Debug\_02.SelectionSort.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\02. SelectionSort\obj\Debug\_02.SelectionSort.pdb
