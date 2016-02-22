@@ -7,52 +7,45 @@
     using System.Threading.Tasks;
     class SubsetSums
     {
-        static void Main()
+        private static int _sumOfNumbers;
+        private static List<int> _numbers;
+        private static bool _thereIsResult;
+
+        private static void Main()
         {
             int firstSum  = 11;
             string firstTestInput = "0 11 1 10 5 6 3 4 7 2";
+            _sumOfNumbers = firstSum;
+            _numbers = firstTestInput.Split().Select(int.Parse).Distinct().ToList();
             //// int secondSum = 0;
             //// string secondTestInput = "1 2 3 4 5";
             //// string thirdSum = -2;
             //// string thirdTestInput = "5 4 92 0 928 1 -1 4";
-
-            Console.WriteLine(FindSubsetSums(firstTestInput, firstSum).ToString());
+            List<int> subset = new List<int>();
+            CalculateSubset(0, subset);
+            if (!_thereIsResult)
+            {
+                Console.WriteLine("No matching subsets.");
+            }
         }
 
-        private static StringBuilder FindSubsetSums(string sequence, int sum)
+        private static void CalculateSubset(int startingIndex, List<int> numbersForSum)
         {
-            StringBuilder result = new StringBuilder();
-            int[] sequenceSplit = sequence.Split().Select(x => int.Parse(x)).ToArray();
-            HashSet<int> uniqueSequence = new HashSet<int>();
-            for (int i = 0; i < sequenceSplit.Length; i++)
+            if (numbersForSum.Count > 0 && numbersForSum.Sum() == _sumOfNumbers)
             {
-                uniqueSequence.Add(sequenceSplit[i]);
+                Console.WriteLine("{0} = {1}", string.Join(" + ", numbersForSum), _sumOfNumbers);
+                _thereIsResult = true;
             }
 
-            int[] uniqueSequenceArr = uniqueSequence.ToArray();
-            for (int i = 0, uniqueSequenceArrLength = uniqueSequenceArr.Length; i < uniqueSequenceArrLength; i++)
+            for (int index = startingIndex; index < _numbers.Count; index++)
             {
-                List<int> subsequence = new List<int>();
-                for (int j = i; j < uniqueSequenceArrLength; j++)
-                {
-                    if (j == i && uniqueSequenceArr[j] == sum)
-                    {
-                        result.AppendLine(string.Format("{0} = {1}", uniqueSequenceArr[j], sum));
-                    }
-                    if (j != i && uniqueSequenceArr[i] + uniqueSequenceArr[j] == sum)
-                    {
-                        result.AppendLine(string.Format("{0} + {1} = {2}", uniqueSequenceArr[i], uniqueSequenceArr[j], sum));
-                    }
-
-                    subsequence.Add(uniqueSequenceArr[j]);
-                    if (subsequence.Count > 2 && subsequence.Sum() == sum)
-                    {
-                        result.AppendLine(string.Join(" + ", subsequence) + "= " + sum);
-                    }
-                }
+                numbersForSum.Add(_numbers[index]);
+                CalculateSubset(index + 1, numbersForSum);
+                numbersForSum.RemoveAt(numbersForSum.Count - 1);
             }
-
-            return result;
         }
     }
 }
+
+
+
