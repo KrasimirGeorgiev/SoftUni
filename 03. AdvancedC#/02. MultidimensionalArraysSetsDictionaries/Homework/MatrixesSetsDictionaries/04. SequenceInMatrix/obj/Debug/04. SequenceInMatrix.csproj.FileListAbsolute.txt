@@ -1,0 +1,6 @@
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\04. SequenceInMatrix\bin\Debug\_04.SequenceInMatrix.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\04. SequenceInMatrix\bin\Debug\_04.SequenceInMatrix.exe
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\04. SequenceInMatrix\bin\Debug\_04.SequenceInMatrix.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\04. SequenceInMatrix\obj\Debug\04. SequenceInMatrix.csprojResolveAssemblyReference.cache
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\04. SequenceInMatrix\obj\Debug\_04.SequenceInMatrix.exe
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\04. SequenceInMatrix\obj\Debug\_04.SequenceInMatrix.pdb

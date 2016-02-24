@@ -10,6 +10,8 @@ namespace Tests
     {
         static void Main(string[] args)
         {
+            int n = 97;
+            Console.WriteLine((char)n);
         }
     }
 }

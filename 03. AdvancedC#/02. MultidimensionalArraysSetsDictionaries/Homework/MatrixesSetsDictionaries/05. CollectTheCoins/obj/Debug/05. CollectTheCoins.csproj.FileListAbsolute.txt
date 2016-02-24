@@ -1,0 +1,6 @@
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\05. CollectTheCoins\bin\Debug\_05.CollectTheCoins.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\05. CollectTheCoins\bin\Debug\_05.CollectTheCoins.exe
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\05. CollectTheCoins\bin\Debug\_05.CollectTheCoins.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\05. CollectTheCoins\obj\Debug\05. CollectTheCoins.csprojResolveAssemblyReference.cache
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\05. CollectTheCoins\obj\Debug\_05.CollectTheCoins.exe
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\05. CollectTheCoins\obj\Debug\_05.CollectTheCoins.pdb

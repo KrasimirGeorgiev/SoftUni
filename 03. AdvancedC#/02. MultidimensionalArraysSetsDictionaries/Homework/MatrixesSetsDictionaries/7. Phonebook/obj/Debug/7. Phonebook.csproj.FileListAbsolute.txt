@@ -1,0 +1,1 @@
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\7. Phonebook\bin\Debug\_7.Phonebook.exe.config

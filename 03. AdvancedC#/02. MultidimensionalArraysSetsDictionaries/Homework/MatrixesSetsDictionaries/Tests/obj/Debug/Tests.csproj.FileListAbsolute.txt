@@ -1,1 +1,6 @@
 F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\Tests\bin\Debug\Tests.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\Tests\bin\Debug\Tests.exe
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\Tests\bin\Debug\Tests.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\Tests\obj\Debug\Tests.exe
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\Tests\obj\Debug\Tests.pdb

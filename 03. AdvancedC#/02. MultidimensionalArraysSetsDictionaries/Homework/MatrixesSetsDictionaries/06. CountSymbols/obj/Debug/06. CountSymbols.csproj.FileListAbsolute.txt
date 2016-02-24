@@ -1,0 +1,6 @@
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\06. CountSymbols\bin\Debug\_06.CountSymbols.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\06. CountSymbols\bin\Debug\_06.CountSymbols.exe
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\06. CountSymbols\bin\Debug\_06.CountSymbols.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\06. CountSymbols\obj\Debug\06. CountSymbols.csprojResolveAssemblyReference.cache
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\06. CountSymbols\obj\Debug\_06.CountSymbols.exe
+F:\Programming\SoftUni\03. C# (Advanced)\02. MultidimensionalArraysSetsDictionaries\Homework\MatrixesSetsDictionaries\06. CountSymbols\obj\Debug\_06.CountSymbols.pdb

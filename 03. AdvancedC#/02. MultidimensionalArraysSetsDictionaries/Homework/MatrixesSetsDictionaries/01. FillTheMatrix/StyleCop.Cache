@@ -1,8 +1,5 @@
 <stylecopresultscache>
   <version>12</version>
-  <project key="-819852293">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="FillTheMatrix.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
@@ -49,4 +46,7 @@
     </timestamps>
     <violations />
   </sourcecode>
+  <project key="-819852293">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
 </stylecopresultscache>
