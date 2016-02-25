@@ -1,0 +1,6 @@
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\06. NumberCalculations\bin\Debug\_06.NumberCalculations.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\06. NumberCalculations\bin\Debug\_06.NumberCalculations.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\06. NumberCalculations\bin\Debug\_06.NumberCalculations.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\06. NumberCalculations\obj\Debug\06. NumberCalculations.csprojResolveAssemblyReference.cache
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\06. NumberCalculations\obj\Debug\_06.NumberCalculations.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\06. NumberCalculations\obj\Debug\_06.NumberCalculations.pdb

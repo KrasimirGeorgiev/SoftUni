@@ -1,0 +1,5 @@
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\02. LastDigitOfNumber\bin\Debug\_02.LastDigitOfNumber.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\02. LastDigitOfNumber\bin\Debug\_02.LastDigitOfNumber.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\02. LastDigitOfNumber\bin\Debug\_02.LastDigitOfNumber.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\02. LastDigitOfNumber\obj\Debug\_02.LastDigitOfNumber.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\02. LastDigitOfNumber\obj\Debug\_02.LastDigitOfNumber.pdb

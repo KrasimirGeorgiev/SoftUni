@@ -1,0 +1,5 @@
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\03. LargerThanNeighbours\bin\Debug\_03.LargerThanNeighbours.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\03. LargerThanNeighbours\bin\Debug\_03.LargerThanNeighbours.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\03. LargerThanNeighbours\bin\Debug\_03.LargerThanNeighbours.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\03. LargerThanNeighbours\obj\Debug\_03.LargerThanNeighbours.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\Methods\03. LargerThanNeighbours\obj\Debug\_03.LargerThanNeighbours.pdb
