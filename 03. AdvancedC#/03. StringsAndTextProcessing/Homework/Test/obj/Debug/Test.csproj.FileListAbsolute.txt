@@ -1,0 +1,1 @@
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\Test\bin\Debug\Test.exe.config

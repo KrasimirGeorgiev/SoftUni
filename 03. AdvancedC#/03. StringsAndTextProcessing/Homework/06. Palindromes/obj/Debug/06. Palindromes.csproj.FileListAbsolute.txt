@@ -1,0 +1,6 @@
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\06. Palindromes\bin\Debug\_06.Palindromes.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\06. Palindromes\bin\Debug\_06.Palindromes.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\06. Palindromes\bin\Debug\_06.Palindromes.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\06. Palindromes\obj\Debug\06. Palindromes.csprojResolveAssemblyReference.cache
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\06. Palindromes\obj\Debug\_06.Palindromes.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\06. Palindromes\obj\Debug\_06.Palindromes.pdb

@@ -1,0 +1,5 @@
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\03. CountSubstringOccurrences\bin\Debug\_03.CountSubstringOccurrences.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\03. CountSubstringOccurrences\bin\Debug\_03.CountSubstringOccurrences.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\03. CountSubstringOccurrences\bin\Debug\_03.CountSubstringOccurrences.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\03. CountSubstringOccurrences\obj\Debug\_03.CountSubstringOccurrences.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\03. CountSubstringOccurrences\obj\Debug\_03.CountSubstringOccurrences.pdb

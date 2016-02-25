@@ -1,0 +1,5 @@
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\05. UnicodeCharacters\obj\Debug\_05.UnicodeCharacters.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\05. UnicodeCharacters\obj\Debug\_05.UnicodeCharacters.pdb

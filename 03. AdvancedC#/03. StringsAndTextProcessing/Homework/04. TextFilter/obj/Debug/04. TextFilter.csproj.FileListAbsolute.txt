@@ -1,0 +1,6 @@
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\04. TextFilter\bin\Debug\_04.TextFilter.exe.config
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\04. TextFilter\bin\Debug\_04.TextFilter.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\04. TextFilter\bin\Debug\_04.TextFilter.pdb
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\04. TextFilter\obj\Debug\04. TextFilter.csprojResolveAssemblyReference.cache
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\04. TextFilter\obj\Debug\_04.TextFilter.exe
+F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Methods\03. StringsAndTextProcessing\04. TextFilter\obj\Debug\_04.TextFilter.pdb
