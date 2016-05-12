@@ -4,3 +4,6 @@ F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Ar
 F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\06. IncreasingSequence\obj\Debug\05. IncreasingSequence.csprojResolveAssemblyReference.cache
 F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\06. IncreasingSequence\obj\Debug\_06.IncreasingSequence.exe
 F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\06. IncreasingSequence\obj\Debug\_06.IncreasingSequence.pdb
+F:\Programming\Git\SoftUni\03. AdvancedC#\01. ArraysListsStacksQueues\Homework\ArraysListsStacksQueues\06. IncreasingSequence\bin\Debug\_06.IncreasingSequence.exe.config
+F:\Programming\Git\SoftUni\03. AdvancedC#\01. ArraysListsStacksQueues\Homework\ArraysListsStacksQueues\06. IncreasingSequence\obj\Debug\_06.IncreasingSequence.exe
+F:\Programming\Git\SoftUni\03. AdvancedC#\01. ArraysListsStacksQueues\Homework\ArraysListsStacksQueues\06. IncreasingSequence\obj\Debug\_06.IncreasingSequence.pdb

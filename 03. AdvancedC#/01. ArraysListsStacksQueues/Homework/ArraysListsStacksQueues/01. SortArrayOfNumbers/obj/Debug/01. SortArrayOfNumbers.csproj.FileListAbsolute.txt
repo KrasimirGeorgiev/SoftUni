@@ -4,3 +4,6 @@ F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Ar
 F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\01. SortArrayOfNumbers\obj\Debug\01. SortArrayOfNumbers.csprojResolveAssemblyReference.cache
 F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\01. SortArrayOfNumbers\obj\Debug\_01.SortArrayOfNumbers.exe
 F:\Programming\SoftUni\03. C# (Advanced)\01. ArraysListsStacksQueues\Homework\Arrays, ListsStacksQueues\ArraysListsStacksQueues\01. SortArrayOfNumbers\obj\Debug\_01.SortArrayOfNumbers.pdb
+F:\Programming\Git\SoftUni\03. AdvancedC#\01. ArraysListsStacksQueues\Homework\ArraysListsStacksQueues\01. SortArrayOfNumbers\bin\Debug\_01.SortArrayOfNumbers.exe.config
+F:\Programming\Git\SoftUni\03. AdvancedC#\01. ArraysListsStacksQueues\Homework\ArraysListsStacksQueues\01. SortArrayOfNumbers\obj\Debug\_01.SortArrayOfNumbers.exe
+F:\Programming\Git\SoftUni\03. AdvancedC#\01. ArraysListsStacksQueues\Homework\ArraysListsStacksQueues\01. SortArrayOfNumbers\obj\Debug\_01.SortArrayOfNumbers.pdb
